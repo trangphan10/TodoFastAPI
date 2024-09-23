@@ -1,0 +1,3 @@
+fastapi 
+uvicorrn 
+tortoise-orm
